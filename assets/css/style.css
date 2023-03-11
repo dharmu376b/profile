@@ -624,7 +624,7 @@ header .navbar ul li a:hover {
 @media screen and (max-width: 600px) {
   .skills {
     min-height: fit-content;
-    max-height: 720px;
+    max-height: 780px;
   }
   .skills .containerr .row {
     grid-template-columns: repeat(2, 1fr);
@@ -643,7 +643,7 @@ header .navbar ul li a:hover {
     height: 50%;
     max-width: 600px;
     padding: 0 20px;
-    padding-top: 13cm;
+    padding-top: 14cm;
     align-items: center;
   }
   
