@@ -1,0 +1,122 @@
+[
+    {
+        "name": "HTML5",
+        "icon": "/icons/html.png"
+    },
+    {
+        "name": "CSS3",
+        "icon": "/icons/css.png"
+    },
+    {
+        "name": "SASS",
+        "icon": "/icons/sass.png"
+    },
+    {
+        "name": "JavaScript",
+        "icon": "/icons/javascript.png"
+    },
+    {
+        "name": "Bootstrap",
+        "icon": "/icons/bootstrap.png"
+    },
+    {
+        "name": "ReactJS",
+        "icon": "/icons/react.png"
+    },
+    {
+        "name": "Typescript",
+        "icon": "/icons/ts.png"
+    },
+    {
+        "name": "C",
+        "icon": "/icons/c.png"
+    },
+    {
+        "name": "C++",
+        "icon": "/icons/cpp.png"
+    },
+    {
+        "name": "C#",
+        "icon": "/icons/cs.png"
+    },
+    {
+        "name": "Dart",
+        "icon": "/icons/dart.png"
+    },
+    {
+        "name": "Flutter",
+        "icon": "/icons/flutter.png"
+    },
+    {
+        "name": "Java",
+        "icon": "/icons/java.png"
+    },
+    {
+        "name": "Kotlin",
+        "icon": "/icons/kotlin.png"
+    },
+    {
+        "name": "TailwindCSS",
+        "icon": "/icons/tailwind.png"
+    },
+    {
+        "name": "Python",
+        "icon": "/icons/py.png"
+    },
+    {
+        "name": "PHP",
+        "icon": "/icons/php.png"
+    },
+    {
+        "name": "MongoDB",
+        "icon": "/icons/mongo-db.png"
+    },
+    {
+        "name": "MySQL",
+        "icon": "/icons/mysql.png"
+    },
+    {
+        "name": "WordPress",
+        "icon": "/icons/wp.png"
+    },
+    {
+        "name": "Blogger",
+        "icon": "/icons/bgr.png"
+    },
+    {
+        "name": "Android",
+        "icon": "/icons/android.png"
+    },
+    {
+        "name": "IOS",
+        "icon": "/icons/ios.png"
+    },
+    {
+        "name": "Git VCS",
+        "icon": "/icons/git.png"
+    },
+    {
+        "name": "GitHub",
+        "icon": "/icons/github.png"
+    },
+    {
+        "name": "Figma",
+        "icon": "/icons/figma.png"
+    },
+    {
+        "name": "Adobe PS",
+        "icon": "/icons/ps.png"
+    },
+    {
+        "name": "Adobe AI",
+        "icon": "/icons/ai.png"
+    },
+    {
+        "name": "Adobe XD",
+        "icon": "/icons/xd.png"
+    },
+    {
+        "name": "Adobe ID",
+        "icon": "/icons/id.png"
+    }    
+]
