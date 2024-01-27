@@ -743,7 +743,6 @@ header .navbar ul li a:hover {
 }
 .container .card .content a{
   display: inline-block;
-  font-size: medium;
   margin-top: 10px;
   padding: 8px 20px;
   border: #ff1111 1px solid;
